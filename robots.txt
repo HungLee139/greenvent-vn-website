@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://greenvent.vn/sitemap.xml
